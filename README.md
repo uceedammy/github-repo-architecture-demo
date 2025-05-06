@@ -1,6 +1,3 @@
-# github-repo-architecture-demo
-# GitHub Repo Architecture Demo for Tech VA Role
-
 This repository showcases a clean and structured architecture ideal for DevOps workflows using GitHub. It's designed for fast onboarding, collaboration, and cloud-native project automation.
 
 ## 🧩 Structure
@@ -50,4 +47,4 @@ Want to try it live? Clone this repo and connect your Azure account to deploy AC
 **Dami Odubanjo**  
 Tech Virtual Assistant | Cloud Support | DevOps Enablement
 
-[GitHub Portfolio Demo] ()
+[GitHub Portfolio Demo] (https://github.com/uceedammy/github-repo-architecture-demo.git)
